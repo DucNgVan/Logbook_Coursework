@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Image Album</string>
+    <string name="next">Next</string>
+    <string name="previous">Back</string>
+    <string name="image_counter_template">Image %1$d of %2$d</string>
+    <string name="image_content_description">Displayed album image</string>
+    <string name="add_image">Add Image</string>
+    <string name="edit_caption">Edit Caption</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="delete_confirm">Are you sure you want to delete this image?</string>
+    <string name="enter_caption">Enter Caption</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="caption_hint">Add a title or note…</string>
+    <string name="image_deleted">Image deleted successfully</string>
+    <string name="no_images">No images in album</string>
+    <string name="add_first_image">Tap + to add your first image</string>
+
+    <string name="caption_1">Majestic Volcano at Sunrise</string>
+    <string name="caption_2">Crystal Clear Ocean Waves</string>
+    <string name="caption_3">Foggy Pine Forest in the Morning</string>
+    <string name="caption_4">Aerial View of an Island Beach</string>
+    <string name="caption_5">Lush Green Football Pitch from Above</string>
+</resources>
